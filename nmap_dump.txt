@@ -1,194 +1,206 @@
 
-Starting Nmap 6.40 ( http://nmap.org ) at 2016-09-01 08:15 WIB
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-09-01 08:21 WIB
 Nmap scan report for 192.168.222.1
-Host is up (0.0055s latency).
+Host is up (0.0062s latency).
 MAC Address: 4C:1F:CC:45:77:0B (Huawei Technologies Co.)
 Nmap scan report for 192.168.222.2
-Host is up (0.0070s latency).
+Host is up (0.0053s latency).
 MAC Address: 88:DC:96:3E:74:80 (Senao Networks)
 Nmap scan report for 192.168.222.3
-Host is up (0.0072s latency).
+Host is up (0.0063s latency).
 MAC Address: 88:DC:96:3E:74:78 (Senao Networks)
 Nmap scan report for 192.168.222.4
-Host is up (0.0100s latency).
+Host is up (0.0085s latency).
 MAC Address: 00:02:6F:DB:A1:B5 (Senao International Co.)
 Nmap scan report for 192.168.222.5
-Host is up (0.011s latency).
+Host is up (0.0095s latency).
 MAC Address: DC:9F:DB:A6:20:79 (Ubiquiti Networks)
 Nmap scan report for 192.168.222.7
-Host is up (0.011s latency).
+Host is up (0.015s latency).
 MAC Address: 88:DC:96:12:FB:20 (Senao Networks)
 Nmap scan report for 192.168.222.8
-Host is up (0.012s latency).
+Host is up (0.015s latency).
 MAC Address: 88:DC:96:3E:74:82 (Senao Networks)
 Nmap scan report for 192.168.222.9
-Host is up (0.012s latency).
+Host is up (0.016s latency).
 MAC Address: 88:DC:96:3E:74:76 (Senao Networks)
 Nmap scan report for 192.168.222.11
-Host is up (0.0073s latency).
+Host is up (0.011s latency).
 MAC Address: 00:0B:F6:01:7E:79 (Nitgen Co.)
 Nmap scan report for 192.168.222.20
-Host is up (-0.087s latency).
+Host is up (0.081s latency).
 MAC Address: 88:DC:96:25:C3:20 (Senao Networks)
 Nmap scan report for 192.168.222.32
-Host is up (0.016s latency).
+Host is up (0.081s latency).
 MAC Address: 60:E3:27:E4:66:68 (Unknown)
 Nmap scan report for 192.168.222.34
-Host is up (0.041s latency).
+Host is up (0.055s latency).
 MAC Address: BC:AE:C5:C4:71:2A (Asustek Computer)
-Nmap scan report for 192.168.222.37
-Host is up (0.010s latency).
-MAC Address: D8:50:E6:8E:5C:09 (Unknown)
+Nmap scan report for 192.168.222.36
+Host is up (0.069s latency).
+MAC Address: D0:23:DB:55:51:5B (Apple)
 Nmap scan report for 192.168.222.42
-Host is up (0.010s latency).
+Host is up (0.14s latency).
 MAC Address: 44:6D:57:E3:BD:64 (Liteon Technology)
 Nmap scan report for 192.168.222.47
-Host is up (0.010s latency).
+Host is up (0.084s latency).
 MAC Address: 1C:87:2C:4B:EA:CE (Unknown)
 Nmap scan report for 192.168.222.49
-Host is up (0.76s latency).
+Host is up (0.18s latency).
 MAC Address: 74:27:EA:A8:8C:5E (Elitegroup Computer Systems Co.)
 Nmap scan report for 192.168.222.51
-Host is up (0.075s latency).
+Host is up (0.13s latency).
 MAC Address: 3C:A1:0D:20:19:12 (Unknown)
 Nmap scan report for 192.168.222.57
-Host is up (0.0060s latency).
+Host is up (0.019s latency).
 MAC Address: 00:26:55:CB:92:07 (Hewlett-Packard Company)
 Nmap scan report for 192.168.222.59
-Host is up (0.0024s latency).
+Host is up (0.29s latency).
 MAC Address: 70:72:0D:3F:87:37 (Unknown)
 Nmap scan report for 192.168.222.60
-Host is up (0.38s latency).
+Host is up (0.30s latency).
 MAC Address: 54:14:73:E3:6D:D2 (Unknown)
 Nmap scan report for 192.168.222.64
-Host is up (-0.071s latency).
+Host is up (0.0035s latency).
 MAC Address: A0:F3:C1:20:5B:91 (Tp-link Technologies CO.)
 Nmap scan report for 192.168.222.65
-Host is up (0.37s latency).
+Host is up (1.0s latency).
 MAC Address: D0:33:11:12:B5:18 (Unknown)
-Nmap scan report for 192.168.222.66
-Host is up (0.058s latency).
-MAC Address: 1C:77:F6:E6:E1:46 (Unknown)
 Nmap scan report for 192.168.222.74
-Host is up (-0.056s latency).
+Host is up (0.032s latency).
 MAC Address: 9C:99:A0:B3:4A:49 (Unknown)
 Nmap scan report for 192.168.222.76
-Host is up (-0.092s latency).
+Host is up (0.0098s latency).
 MAC Address: 74:EA:3A:E2:B3:40 (Tp-link Technologies Co.)
 Nmap scan report for 192.168.222.77
-Host is up (0.098s latency).
+Host is up (0.18s latency).
 MAC Address: AC:D1:B8:69:92:1F (Unknown)
 Nmap scan report for 192.168.222.78
-Host is up (0.059s latency).
+Host is up (0.14s latency).
 MAC Address: 38:2D:D1:18:16:A7 (Unknown)
 Nmap scan report for 192.168.222.82
-Host is up (0.048s latency).
+Host is up (0.10s latency).
 MAC Address: 00:18:60:7A:65:BA (SIM Technology Group Shanghai Simcom,)
 Nmap scan report for 192.168.222.88
-Host is up (0.0096s latency).
+Host is up (0.0039s latency).
 MAC Address: 30:CB:F8:53:0A:D3 (Unknown)
 Nmap scan report for 192.168.222.90
-Host is up (0.075s latency).
+Host is up (0.14s latency).
 MAC Address: 50:FC:9F:6F:D5:65 (Unknown)
 Nmap scan report for 192.168.222.91
-Host is up (0.058s latency).
+Host is up (-0.15s latency).
 MAC Address: A8:1B:5A:D5:79:5F (Unknown)
 Nmap scan report for 192.168.222.93
-Host is up (0.054s latency).
+Host is up (0.086s latency).
 MAC Address: D0:53:49:FA:D8:C1 (Unknown)
 Nmap scan report for 192.168.222.95
-Host is up (0.032s latency).
+Host is up (0.098s latency).
 MAC Address: 00:27:19:F6:07:A3 (Tp-link Technologies CO.)
-Nmap scan report for 192.168.222.99
-Host is up (0.099s latency).
-MAC Address: 44:6D:57:E3:BD:1E (Liteon Technology)
 Nmap scan report for 192.168.222.100
-Host is up (0.13s latency).
+Host is up (0.076s latency).
 MAC Address: 10:92:66:D4:0D:0F (Unknown)
+Nmap scan report for 192.168.222.108
+Host is up (0.030s latency).
+MAC Address: 00:25:56:60:A5:A3 (Hon Hai Precision Ind. Co.)
+Nmap scan report for 192.168.222.110
+Host is up (0.065s latency).
+MAC Address: 98:0C:A5:89:31:09 (Unknown)
 Nmap scan report for 192.168.222.113
-Host is up (0.015s latency).
+Host is up (0.0051s latency).
 MAC Address: 88:DC:96:3F:11:4F (Senao Networks)
 Nmap scan report for 192.168.222.115
-Host is up (0.0041s latency).
+Host is up (0.0070s latency).
 MAC Address: 00:26:2D:44:C2:31 (Wistron)
 Nmap scan report for 192.168.222.122
-Host is up (-0.097s latency).
+Host is up (-0.12s latency).
 MAC Address: A0:F3:C1:21:51:1C (Tp-link Technologies CO.)
 Nmap scan report for 192.168.222.123
-Host is up (-0.17s latency).
+Host is up (0.25s latency).
 MAC Address: 00:18:60:79:16:03 (SIM Technology Group Shanghai Simcom,)
 Nmap scan report for 192.168.222.124
-Host is up (0.013s latency).
+Host is up (0.0025s latency).
 MAC Address: 90:FB:A6:08:09:16 (Hon Hai Precision Ind.Co.Ltd)
 Nmap scan report for 192.168.222.134
-Host is up (-0.085s latency).
+Host is up (-0.12s latency).
 MAC Address: A0:F3:C1:0B:52:2B (Tp-link Technologies CO.)
 Nmap scan report for 192.168.222.139
-Host is up (0.0043s latency).
+Host is up (0.0060s latency).
 MAC Address: 00:22:68:3D:20:5B (Hon Hai Precision Ind. Co.)
 Nmap scan report for 192.168.222.145
-Host is up (0.076s latency).
+Host is up (0.13s latency).
 MAC Address: A0:32:99:7A:80:F9 (Unknown)
 Nmap scan report for 192.168.222.148
-Host is up (-0.075s latency).
+Host is up (0.051s latency).
 MAC Address: 7E:4A:5B:25:A6:2B (Unknown)
+Nmap scan report for 192.168.222.150
+Host is up (0.055s latency).
+MAC Address: E8:DE:27:0E:3E:E3 (Tp-link Technologies Co.)
 Nmap scan report for 192.168.222.161
-Host is up (-0.10s latency).
+Host is up (0.13s latency).
 MAC Address: A0:F3:C1:0B:CC:C1 (Tp-link Technologies CO.)
-Nmap scan report for 192.168.222.166
-Host is up (0.067s latency).
-MAC Address: BC:B3:08:D1:70:E0 (Unknown)
+Nmap scan report for 192.168.222.165
+Host is up (0.032s latency).
+MAC Address: 20:6E:9C:DE:83:B1 (Unknown)
 Nmap scan report for 192.168.222.167
-Host is up (0.26s latency).
+Host is up (0.34s latency).
 MAC Address: 10:FE:ED:15:AD:AA (Tp-link Technologies CO.)
 Nmap scan report for 192.168.222.173
-Host is up (0.085s latency).
+Host is up (0.0092s latency).
 MAC Address: 54:40:AD:A5:43:90 (Unknown)
 Nmap scan report for 192.168.222.174
-Host is up (-0.14s latency).
+Host is up (0.098s latency).
 MAC Address: 38:2D:D1:E4:3F:19 (Unknown)
-Nmap scan report for 192.168.222.176
-Host is up (0.033s latency).
-MAC Address: 10:C3:7B:08:42:95 (Unknown)
+Nmap scan report for 192.168.222.189
+Host is up (0.045s latency).
+MAC Address: 54:40:AD:9A:A7:90 (Unknown)
 Nmap scan report for 192.168.222.192
-Host is up (-0.056s latency).
+Host is up (0.0054s latency).
 MAC Address: 50:32:75:38:B1:5E (Samsung Electronics Co.)
 Nmap scan report for 192.168.222.194
-Host is up (-0.13s latency).
+Host is up (0.046s latency).
 MAC Address: 00:25:86:F5:0B:0A (Tp-link Technologies Co.)
+Nmap scan report for 192.168.222.203
+Host is up (0.011s latency).
+MAC Address: 74:29:AF:7D:6A:01 (Unknown)
 Nmap scan report for 192.168.222.206
-Host is up (0.10s latency).
+Host is up (0.069s latency).
 MAC Address: A0:F3:C1:20:52:75 (Tp-link Technologies CO.)
 Nmap scan report for 192.168.222.211
-Host is up (0.0054s latency).
+Host is up (0.0057s latency).
 MAC Address: 00:02:6F:BF:B3:00 (Senao International Co.)
+Nmap scan report for 192.168.222.213
+Host is up (0.12s latency).
+MAC Address: E8:DE:27:0C:F2:3C (Tp-link Technologies Co.)
 Nmap scan report for 192.168.222.217
-Host is up (0.049s latency).
+Host is up (0.12s latency).
 MAC Address: 7C:F9:0E:0A:C2:5C (Unknown)
 Nmap scan report for 192.168.222.227
-Host is up (-0.12s latency).
+Host is up (0.10s latency).
 MAC Address: 00:0A:00:5A:BA:66 (Mediatek)
 Nmap scan report for 192.168.222.233
-Host is up (-0.19s latency).
+Host is up (0.053s latency).
 MAC Address: 74:27:EA:A5:FD:2C (Elitegroup Computer Systems Co.)
+Nmap scan report for 192.168.222.242
+Host is up (0.027s latency).
+MAC Address: 7C:0B:C6:1A:58:E4 (Unknown)
 Nmap scan report for 192.168.222.243
-Host is up (0.0046s latency).
+Host is up (0.0068s latency).
 MAC Address: 68:72:51:2F:27:0A (Ubiquiti Networks)
 Nmap scan report for 192.168.222.244
-Host is up (0.084s latency).
+Host is up (0.61s latency).
 MAC Address: 10:2A:B3:41:EE:7F (Unknown)
 Nmap scan report for 192.168.222.250
-Host is up (0.094s latency).
+Host is up (0.11s latency).
 MAC Address: 5C:3C:27:D0:34:24 (Samsung Electronics Co.)
 Nmap scan report for 192.168.222.251
-Host is up (0.0068s latency).
+Host is up (0.0014s latency).
 MAC Address: 94:0C:6D:A4:E9:A2 (Tp-link Technologies Co.)
 Nmap scan report for 192.168.222.252
-Host is up (0.0053s latency).
+Host is up (0.0035s latency).
 MAC Address: 88:DC:96:25:C1:94 (Senao Networks)
 Nmap scan report for 192.168.222.253
-Host is up (0.0055s latency).
+Host is up (0.0038s latency).
 MAC Address: 88:DC:96:25:C1:58 (Senao Networks)
 Nmap scan report for 192.168.222.33
 Host is up.
-Nmap done: 256 IP addresses (64 hosts up) scanned in 15.33 seconds
+Nmap done: 256 IP addresses (68 hosts up) scanned in 16.54 seconds
